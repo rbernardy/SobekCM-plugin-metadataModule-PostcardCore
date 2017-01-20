@@ -4,3 +4,4 @@
 <p>Development of this plugin began after receiving excellent training from Mark Sullivan at the Spring 2015 SobekCM Code Camp in Miami, Florida. Mark also provided abundant and invaluable assistance during development. Mark also finalized this project by making adjustments to it to make it compatible with the updated plugin system in the SobekCM 4.10.0 release.</p>
 <hr/>
 <p>Richard Bernardy - <a href="mailto:rbernard@usf.edu">rbernard@usf.edu</a> - 12/22/2016.</p>
+<p>I'd appreciate a courtesy notification by email if you find this plugin useful and are using it in your SobekCM-based respository.</p>
