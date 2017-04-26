@@ -239,7 +239,7 @@ namespace PostcardCore
                 {
                     foreach (PostcardCore_Subject_Info subject in subjects)
                     {
-                        metadataTerms.Add(new KeyValuePair<String, String>("Subject Topic", subject.Subject_Name));
+                        metadataTerms.Add(new KeyValuePair<String, String>("Subject Topic", subject.Subject_Topic));
                         metadataTerms.Add(new KeyValuePair<String, String>("Subject Perspective", subject.Subject_Perspective));
                         metadataTerms.Add(new KeyValuePair<String, String>("Subject Name", subject.Subject_Name));
                     }
